@@ -2,3 +2,5 @@
 create page setting
 create page home
 create page web
+create page video
+
